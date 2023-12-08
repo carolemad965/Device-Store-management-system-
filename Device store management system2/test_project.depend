@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1701770263 source:d:\iti\c\project\test_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1701778766 source:d:\iti\electrical store management system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1701778766 source:d:\iti\device store management system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
